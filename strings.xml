@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Velavan Techno Sketch Pvt Ltd</string>
+    <string name="tagline">Mechanical CAD Design &amp; Rapid Prototyping</string>
+    <string name="order_now">Order Custom CAD</string>
+    <string name="upload_hint">Upload Hand Sketch / Blueprint / Sample Photo</string>
+    <string name="solidworks">SolidWorks 3D</string>
+    <string name="creo">PTC Creo Parametric</string>
+    <string name="autocad">AutoCAD 2D Drafting</string>
+    <string name="catia">Dassault CATIA V5</string>
+    <string name="ansys">ANSYS FEA &amp; CFD Simulation</string>
+    <string name="siemens_nx">Siemens NX CAM &amp; CAD</string>
+    <string name="contact_email">relevanttechnosketch@gmail.com</string>
+    <string name="company_email">contact@velavantechnosketch.com</string>
+    <string name="support_email">info@velavantechnosketch.com</string>
+    <string name="founder_linkedin">https://www.linkedin.com/in/sudhakar26</string>
+    <string name="founder_name">Sudhakar</string>
+</resources>
